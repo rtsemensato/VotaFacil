@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Arquivos de ambiente
+.env
+.env.*
+
+# Uploads e dados temporários
+uploads/
+data/
+dump/
+
+# Logs
+*.log
+logs/
+
+# Cobertura de testes
+coverage/
